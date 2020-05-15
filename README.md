@@ -1,6 +1,6 @@
 # 「 Hacking Design AI 2020 」
 
-![Hacking Design AI 2020](https://github.com/shadowcz007/Hacking-Design-AI-2020/raw/master/img/poster.png)
+![Hacking Design AI 2020](https://raw.githubusercontent.com/shadowcz007/Hacking-Design-AI-2020/master/img/poster.png)
 
 
 ## - 自我介绍  
