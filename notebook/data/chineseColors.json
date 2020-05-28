@@ -1,0 +1,1730 @@
+[
+    {
+        "name": "粉凤仙",
+        "color": "#eac0ce"
+    },
+    {
+        "name": "浅粉",
+        "color": "#e5b8c3"
+    },
+    {
+        "name": "淡粉",
+        "color": "#e8afc5"
+    },
+    {
+        "name": "紫薇花",
+        "color": "#eea5d1"
+    },
+    {
+        "name": "暗粉",
+        "color": "#e18dac"
+    },
+    {
+        "name": "荷花红",
+        "color": "#eb7faf"
+    },
+    {
+        "name": "紫水晶",
+        "color": "#c3a6cb"
+    },
+    {
+        "name": "浅石英紫",
+        "color": "#ab96c5"
+    },
+    {
+        "name": "浅凤仙紫",
+        "color": "#d294d3"
+    },
+    {
+        "name": "木槿紫",
+        "color": "#a381ba"
+    },
+    {
+        "name": "长春花色",
+        "color": "#de7ab1"
+    },
+    {
+        "name": "洋葱紫",
+        "color": "#9c6680"
+    },
+    {
+        "name": "紫罗蓝",
+        "color": "#732e7e"
+    },
+    {
+        "name": "柏坊灰蓝",
+        "color": "#4e1892"
+    },
+    {
+        "name": "龙胆紫",
+        "color": "#423171"
+    },
+    {
+        "name": "雪紫",
+        "color": "#79485a"
+    },
+    {
+        "name": "红莲灰",
+        "color": "#c76079"
+    },
+    {
+        "name": "艳粉",
+        "color": "#d3547e"
+    },
+    {
+        "name": "紫粉",
+        "color": "#a54358"
+    },
+    {
+        "name": "鸡冠花红",
+        "color": "#a52664"
+    },
+    {
+        "name": "青莲紫",
+        "color": "#95509f"
+    },
+    {
+        "name": "牵牛紫",
+        "color": "#a22076"
+    },
+    {
+        "name": "品红",
+        "color": "#a71368"
+    },
+    {
+        "name": "芯木色",
+        "color": "#ae506b"
+    },
+    {
+        "name": "玫瑰红",
+        "color": "#973444"
+    },
+    {
+        "name": "玫瑰灰",
+        "color": "#793d56"
+    },
+    {
+        "name": "胭脂",
+        "color": "#952e3a"
+    },
+    {
+        "name": "辰沙",
+        "color": "#af5e53"
+    },
+    {
+        "name": "砖红",
+        "color": "#aa4d3d"
+    },
+    {
+        "name": "毅红",
+        "color": "#a4414f"
+    },
+    {
+        "name": "银红",
+        "color": "#c56978"
+    },
+    {
+        "name": "肉红",
+        "color": "#c17886"
+    },
+    {
+        "name": "妃红",
+        "color": "#c35655"
+    },
+    {
+        "name": "猩红",
+        "color": "#c43739"
+    },
+    {
+        "name": "血红",
+        "color": "#a03e28"
+    },
+    {
+        "name": "红茶",
+        "color": "#dc1e1c"
+    },
+    {
+        "name": "月季红",
+        "color": "#bb1c33"
+    },
+    {
+        "name": "茉莉花红",
+        "color": "#b31f45"
+    },
+    {
+        "name": "鸟罗松红",
+        "color": "#c5283d"
+    },
+    {
+        "name": "银星海棠",
+        "color": "#d13559"
+    },
+    {
+        "name": "象牙红",
+        "color": "#bc343c"
+    },
+    {
+        "name": "曙红",
+        "color": "#935458"
+    },
+    {
+        "name": "洋红",
+        "color": "#dc143c"
+    },
+    {
+        "name": "牡丹红",
+        "color": "#b80233"
+    },
+    {
+        "name": "艳红",
+        "color": "#cc3536"
+    },
+    {
+        "name": "蕉红色",
+        "color": "#cf292f"
+    },
+    {
+        "name": "银朱",
+        "color": "#d15d5e"
+    },
+    {
+        "name": "硃砂",
+        "color": "#b84b48"
+    },
+    {
+        "name": "二硃",
+        "color": "#c6574b"
+    },
+    {
+        "name": "硃膘",
+        "color": "#e35c3e"
+    },
+    {
+        "name": "章丹",
+        "color": "#eb652d"
+    },
+    {
+        "name": "蕃茄红",
+        "color": "#c4473d"
+    },
+    {
+        "name": "榴花红",
+        "color": "#d54b44"
+    },
+    {
+        "name": "柿子色",
+        "color": "#ed7a3d"
+    },
+    {
+        "name": "桔红",
+        "color": "#e7693f"
+    },
+    {
+        "name": "桔黄",
+        "color": "#e8853b"
+    },
+    {
+        "name": "红扇贝色",
+        "color": "#e9745a"
+    },
+    {
+        "name": "粉橙色",
+        "color": "#f89155"
+    },
+    {
+        "name": "金红",
+        "color": "#f07544"
+    },
+    {
+        "name": "雄精",
+        "color": "#e47542"
+    },
+    {
+        "name": "金黄",
+        "color": "#c77a3a"
+    },
+    {
+        "name": "雄黄",
+        "color": "#d0853d"
+    },
+    {
+        "name": "虾黄",
+        "color": "#e1a14d"
+    },
+    {
+        "name": "艳黄",
+        "color": "#e1a105"
+    },
+    {
+        "name": "鹅黄",
+        "color": "#f5a31f"
+    },
+    {
+        "name": "十样锦",
+        "color": "#fcb1aa"
+    },
+    {
+        "name": "凤仙粉",
+        "color": "#f4a9aa"
+    },
+    {
+        "name": "肉粉",
+        "color": "#f1c7be"
+    },
+    {
+        "name": "肉黄",
+        "color": "#f0b69d"
+    },
+    {
+        "name": "釉红",
+        "color": "#b65b46"
+    },
+    {
+        "name": "红莲灰",
+        "color": "#bb848c"
+    },
+    {
+        "name": "蛤蜊粉",
+        "color": "#da9583"
+    },
+    {
+        "name": "土红",
+        "color": "#a95352"
+    },
+    {
+        "name": "玛瑙色",
+        "color": "#c06b49"
+    },
+    {
+        "name": "赦石色",
+        "color": "#c37e5f"
+    },
+    {
+        "name": "赦红",
+        "color": "#b56f58"
+    },
+    {
+        "name": "红孤色",
+        "color": "#c18453"
+    },
+    {
+        "name": "黄棕色",
+        "color": "#a5855e"
+    },
+    {
+        "name": "棕茶",
+        "color": "#b8844f"
+    },
+    {
+        "name": "中驼",
+        "color": "#9b7e62"
+    },
+    {
+        "name": "土黄",
+        "color": "#ce9335"
+    },
+    {
+        "name": "松皮色",
+        "color": "#b37349"
+    },
+    {
+        "name": "桂皮色",
+        "color": "#bb855d"
+    },
+    {
+        "name": "土布色",
+        "color": "#e3b587"
+    },
+    {
+        "name": "黄琉璃",
+        "color": "#e2af45"
+    },
+    {
+        "name": "琉璃色",
+        "color": "#c48d39"
+    },
+    {
+        "name": "坛香色",
+        "color": "#dc943b"
+    },
+    {
+        "name": "苍黄",
+        "color": "#c65306"
+    },
+    {
+        "name": "米红",
+        "color": "#e1bda2"
+    },
+    {
+        "name": "玛瑙粉",
+        "color": "#d79b75"
+    },
+    {
+        "name": "向日黄",
+        "color": "#f4b974"
+    },
+    {
+        "name": "浅黄棕",
+        "color": "#dea87a"
+    },
+    {
+        "name": "瓜黄",
+        "color": "#f1b67f"
+    },
+    {
+        "name": "骆驼色",
+        "color": "#d8ad85"
+    },
+    {
+        "name": "芦黄",
+        "color": "#e2c2a4"
+    },
+    {
+        "name": "浅桔黄",
+        "color": "#da9558"
+    },
+    {
+        "name": "鹿皮色",
+        "color": "#e7bb7c"
+    },
+    {
+        "name": "鹿皮棕",
+        "color": "#bb9755"
+    },
+    {
+        "name": "真丝绸色",
+        "color": "#f4d7b4"
+    },
+    {
+        "name": "富春纺色",
+        "color": "#f0d6ac"
+    },
+    {
+        "name": "乳白色",
+        "color": "#eee1ca"
+    },
+    {
+        "name": "乳黄色",
+        "color": "#efe0b9"
+    },
+    {
+        "name": "甘石粉",
+        "color": "#eadcd6"
+    },
+    {
+        "name": "浅血牙",
+        "color": "#eacdd1"
+    },
+    {
+        "name": "浅棕灰",
+        "color": "#e1dbcd"
+    },
+    {
+        "name": "粉棕",
+        "color": "#dac5b3"
+    },
+    {
+        "name": "浅肉粉",
+        "color": "#eedecc"
+    },
+    {
+        "name": "浅驼色",
+        "color": "#c9ae8c"
+    },
+    {
+        "name": "淡棕茶",
+        "color": "#b0a085"
+    },
+    {
+        "name": "肉棕灰",
+        "color": "#b89a83"
+    },
+    {
+        "name": "肉棕",
+        "color": "#d2ae8c"
+    },
+    {
+        "name": "珈琲棕",
+        "color": "#896c50"
+    },
+    {
+        "name": "黄鸭色",
+        "color": "#9b603f"
+    },
+    {
+        "name": "烟色",
+        "color": "#6e4d40"
+    },
+    {
+        "name": "朱古力色",
+        "color": "#84624e"
+    },
+    {
+        "name": "枣红",
+        "color": "#89303f"
+    },
+    {
+        "name": "蒲萄灰",
+        "color": "#6d4d56"
+    },
+    {
+        "name": "紫绛色",
+        "color": "#722e41"
+    },
+    {
+        "name": "紫铜色",
+        "color": "#723d45"
+    },
+    {
+        "name": "枣紫",
+        "color": "#69282b"
+    },
+    {
+        "name": "黑紫",
+        "color": "#50262b"
+    },
+    {
+        "name": "棕红",
+        "color": "#7c4b40"
+    },
+    {
+        "name": "深釉红",
+        "color": "#773d38"
+    },
+    {
+        "name": "红扇贝色",
+        "color": "#875a72"
+    },
+    {
+        "name": "深烟红",
+        "color": "#643441"
+    },
+    {
+        "name": "珈琲色",
+        "color": "#7b5650"
+    },
+    {
+        "name": "豆棕",
+        "color": "#795253"
+    },
+    {
+        "name": "罗汉果色",
+        "color": "#7b563f"
+    },
+    {
+        "name": "深栗色",
+        "color": "#6f5750"
+    },
+    {
+        "name": "酱色",
+        "color": "#725338"
+    },
+    {
+        "name": "深褐色",
+        "color": "#55473b"
+    },
+    {
+        "name": "绛紫",
+        "color": "#704d4e"
+    },
+    {
+        "name": "深烟",
+        "color": "#5a4c4c"
+    },
+    {
+        "name": "茄皮紫",
+        "color": "#674950"
+    },
+    {
+        "name": "烟栗色",
+        "color": "#544847"
+    },
+    {
+        "name": "将校呢",
+        "color": "#241d00"
+    },
+    {
+        "name": "中棕灰",
+        "color": "#a9987c"
+    },
+    {
+        "name": "姜黄",
+        "color": "#b49436"
+    },
+    {
+        "name": "新芽色",
+        "color": "#b4a761"
+    },
+    {
+        "name": "卡其黄",
+        "color": "#d5b884"
+    },
+    {
+        "name": "石黄",
+        "color": "#f2c04d"
+    },
+    {
+        "name": "乳棕",
+        "color": "#c9b481"
+    },
+    {
+        "name": "乳灰",
+        "color": "#c5bba3"
+    },
+    {
+        "name": "深银灰",
+        "color": "#b2ae9b"
+    },
+    {
+        "name": "米灰",
+        "color": "#c5bfad"
+    },
+    {
+        "name": "牙黄",
+        "color": "#ebe1b2"
+    },
+    {
+        "name": "蜡黄",
+        "color": "#ebe1bd"
+    },
+    {
+        "name": "枝黄",
+        "color": "#dbc7a6"
+    },
+    {
+        "name": "丹东石",
+        "color": "#d7c16b"
+    },
+    {
+        "name": "黄金色",
+        "color": "#cccc66"
+    },
+    {
+        "name": "藤黄",
+        "color": "#f2de76"
+    },
+    {
+        "name": "蛋黄",
+        "color": "#e7b55b"
+    },
+    {
+        "name": "槐黄",
+        "color": "#efe452"
+    },
+    {
+        "name": "明黄",
+        "color": "#f0c649"
+    },
+    {
+        "name": "丝爪花黄",
+        "color": "#f7d550"
+    },
+    {
+        "name": "嫩姜黄",
+        "color": "#e2bd3b"
+    },
+    {
+        "name": "甘草黄",
+        "color": "#e4cf8e"
+    },
+    {
+        "name": "小鸠黄",
+        "color": "#e3d289"
+    },
+    {
+        "name": "芽灰",
+        "color": "#ccc3aa"
+    },
+    {
+        "name": "柠檬黄",
+        "color": "#e9db39"
+    },
+    {
+        "name": "杨桃色",
+        "color": "#d4d570"
+    },
+    {
+        "name": "淡黄",
+        "color": "#eae3b3"
+    },
+    {
+        "name": "淡米色",
+        "color": "#e9e6c5"
+    },
+    {
+        "name": "胡粉",
+        "color": "#ebe8db"
+    },
+    {
+        "name": "蛤粉",
+        "color": "#edeadc"
+    },
+    {
+        "name": "立德粉",
+        "color": "#edebe0"
+    },
+    {
+        "name": "牙绿",
+        "color": "#d9e396"
+    },
+    {
+        "name": "苦瓜绿",
+        "color": "#cddb8f"
+    },
+    {
+        "name": "草黄",
+        "color": "#dbce54"
+    },
+    {
+        "name": "枯绿",
+        "color": "#b7b278"
+    },
+    {
+        "name": "嫩草绿",
+        "color": "#7ea174"
+    },
+    {
+        "name": "浅草绿",
+        "color": "#abcc89"
+    },
+    {
+        "name": "铜绿色",
+        "color": "#a5b795"
+    },
+    {
+        "name": "青豆色",
+        "color": "#9bae86"
+    },
+    {
+        "name": "黄绿",
+        "color": "#94a657"
+    },
+    {
+        "name": "深芽绿",
+        "color": "#8c9636"
+    },
+    {
+        "name": "葱绿",
+        "color": "#94c66b"
+    },
+    {
+        "name": "军绿",
+        "color": "#cad4ba"
+    },
+    {
+        "name": "夜绿色",
+        "color": "#5a715f"
+    },
+    {
+        "name": "苍绿",
+        "color": "#4e5f45"
+    },
+    {
+        "name": "橄榄绿",
+        "color": "#6a6834"
+    },
+    {
+        "name": "冬瓜绿",
+        "color": "#519670"
+    },
+    {
+        "name": "荷茎绿",
+        "color": "#96bb8f"
+    },
+    {
+        "name": "绿琉璃色",
+        "color": "#4f7e57"
+    },
+    {
+        "name": "嫩葱绿",
+        "color": "#93b469"
+    },
+    {
+        "name": "鹦鹉绿",
+        "color": "#008e59"
+    },
+    {
+        "name": "翠绿",
+        "color": "#006e5f"
+    },
+    {
+        "name": "湖绿",
+        "color": "#46817e"
+    },
+    {
+        "name": "粗孔雀绿",
+        "color": "#168570"
+    },
+    {
+        "name": "深绿宝石",
+        "color": "#2f8f6d"
+    },
+    {
+        "name": "灰绿",
+        "color": "#5c8987"
+    },
+    {
+        "name": "冬绿",
+        "color": "#68927d"
+    },
+    {
+        "name": "巴黎绿",
+        "color": "#00b483"
+    },
+    {
+        "name": "品绿",
+        "color": "#00828b"
+    },
+    {
+        "name": "果绿",
+        "color": "#8ac28e"
+    },
+    {
+        "name": "玉绿",
+        "color": "#88d5b9"
+    },
+    {
+        "name": "果灰",
+        "color": "#88aea3"
+    },
+    {
+        "name": "碧玉石",
+        "color": "#569597"
+    },
+    {
+        "name": "浅松绿",
+        "color": "#84c0be"
+    },
+    {
+        "name": "深松绿",
+        "color": "#67b4b0"
+    },
+    {
+        "name": "浅松绿",
+        "color": "#a9e1d3"
+    },
+    {
+        "name": "三绿",
+        "color": "#90caaf"
+    },
+    {
+        "name": "枝绿",
+        "color": "#baded1"
+    },
+    {
+        "name": "淡灰绿",
+        "color": "#aec4b7"
+    },
+    {
+        "name": "水黄",
+        "color": "#bed2b6"
+    },
+    {
+        "name": "淡绿",
+        "color": "#b8d6c2"
+    },
+    {
+        "name": "鸭蛋青",
+        "color": "#d1e3db"
+    },
+    {
+        "name": "浅水绿",
+        "color": "#bbe2d6"
+    },
+    {
+        "name": "春绿",
+        "color": "#e3efd1"
+    },
+    {
+        "name": "月白色",
+        "color": "#d1e2de"
+    },
+    {
+        "name": "锈绿",
+        "color": "#b8c8b7"
+    },
+    {
+        "name": "蜡白",
+        "color": "#e7e5d0"
+    },
+    {
+        "name": "芦灰",
+        "color": "#a9b08f"
+    },
+    {
+        "name": "虾灰",
+        "color": "#b7b99c"
+    },
+    {
+        "name": "大理石色",
+        "color": "#a2b2a9"
+    },
+    {
+        "name": "中条虾绿",
+        "color": "#7f877a"
+    },
+    {
+        "name": "灰米",
+        "color": "#b6b196"
+    },
+    {
+        "name": "松绿色",
+        "color": "#bec5b5"
+    },
+    {
+        "name": "暗灰",
+        "color": "#647372"
+    },
+    {
+        "name": "卡其绿",
+        "color": "#647370"
+    },
+    {
+        "name": "蟹青",
+        "color": "#7a988e"
+    },
+    {
+        "name": "青虾色",
+        "color": "#7a988b"
+    },
+    {
+        "name": "玉石蓝",
+        "color": "#507883"
+    },
+    {
+        "name": "橄揽灰",
+        "color": "#7c9283"
+    },
+    {
+        "name": "老绿",
+        "color": "#3d6e53"
+    },
+    {
+        "name": "墨绿",
+        "color": "#3f5b50"
+    },
+    {
+        "name": "燋茶色",
+        "color": "#5c5a46"
+    },
+    {
+        "name": "茶绿",
+        "color": "#5c614f"
+    },
+    {
+        "name": "铁绿",
+        "color": "#5e6042"
+    },
+    {
+        "name": "油绿",
+        "color": "#45554a"
+    },
+    {
+        "name": "草灰色",
+        "color": "#675b46"
+    },
+    {
+        "name": "暗苔绿",
+        "color": "#4a6f5d"
+    },
+    {
+        "name": "毛绿",
+        "color": "#155461"
+    },
+    {
+        "name": "深灰",
+        "color": "#576768"
+    },
+    {
+        "name": "鹊灰",
+        "color": "#455667"
+    },
+    {
+        "name": "白暨豚",
+        "color": "#2c545c"
+    },
+    {
+        "name": "深瓦灰",
+        "color": "#637179"
+    },
+    {
+        "name": "苔灰",
+        "color": "#58665e"
+    },
+    {
+        "name": "冬灰色",
+        "color": "#6d817d"
+    },
+    {
+        "name": "蟹蓝",
+        "color": "#658a98"
+    },
+    {
+        "name": "云灰",
+        "color": "#aac2c4"
+    },
+    {
+        "name": "鸽灰",
+        "color": "#95b1ba"
+    },
+    {
+        "name": "蓝灰色",
+        "color": "#8aa4a8"
+    },
+    {
+        "name": "水貂灰",
+        "color": "#949c97"
+    },
+    {
+        "name": "春蓝",
+        "color": "#7ba1a8"
+    },
+    {
+        "name": "灰蓝",
+        "color": "#5d828a"
+    },
+    {
+        "name": "湖蓝灰",
+        "color": "#59808e"
+    },
+    {
+        "name": "钢青色",
+        "color": "#4682b4"
+    },
+    {
+        "name": "亮钢蓝",
+        "color": "#b0c4de"
+    },
+    {
+        "name": "亮岩灰",
+        "color": "#778899"
+    },
+    {
+        "name": "岩灰",
+        "color": "#708090"
+    },
+    {
+        "name": "竹月色",
+        "color": "#5e90b8"
+    },
+    {
+        "name": "沽蓝",
+        "color": "#6493af"
+    },
+    {
+        "name": "深竹月",
+        "color": "#2578b5"
+    },
+    {
+        "name": "琉璃蓝",
+        "color": "#1a638a"
+    },
+    {
+        "name": "深毛月色",
+        "color": "#3a89b0"
+    },
+    {
+        "name": "浅土蓝",
+        "color": "#1f5574"
+    },
+    {
+        "name": "北京毛蓝",
+        "color": "#276893"
+    },
+    {
+        "name": "绒蓝",
+        "color": "#31678d"
+    },
+    {
+        "name": "浅海昌蓝",
+        "color": "#3c5e91"
+    },
+    {
+        "name": "海蓝",
+        "color": "#17507d"
+    },
+    {
+        "name": "深毛月色",
+        "color": "#2b5f8e"
+    },
+    {
+        "name": "深毛蓝",
+        "color": "#244462"
+    },
+    {
+        "name": "深蓝",
+        "color": "#213d62"
+    },
+    {
+        "name": "靛蓝",
+        "color": "#293150"
+    },
+    {
+        "name": "劳动布色",
+        "color": "#25446b"
+    },
+    {
+        "name": "黛蓝",
+        "color": "#304758"
+    },
+    {
+        "name": "藏蓝",
+        "color": "#25386b"
+    },
+    {
+        "name": "鲜蓝",
+        "color": "#004db5"
+    },
+    {
+        "name": "孔雀蓝",
+        "color": "#0041a5"
+    },
+    {
+        "name": "郡青",
+        "color": "#084495"
+    },
+    {
+        "name": "宝石蓝",
+        "color": "#1f3696"
+    },
+    {
+        "name": "角宿",
+        "color": "#2750a8"
+    },
+    {
+        "name": "绀青",
+        "color": "#3f486c"
+    },
+    {
+        "name": "钛铁",
+        "color": "#282e55"
+    },
+    {
+        "name": "藏墨蓝",
+        "color": "#37344c"
+    },
+    {
+        "name": "灯草灰",
+        "color": "#363532"
+    },
+    {
+        "name": "元青",
+        "color": "#3e3c3d"
+    },
+    {
+        "name": "粗晶皂",
+        "color": "#43454a"
+    },
+    {
+        "name": "红皂",
+        "color": "#4f5355"
+    },
+    {
+        "name": "铁青",
+        "color": "#404a57"
+    },
+    {
+        "name": "铁灰",
+        "color": "#37444b"
+    },
+    {
+        "name": "青金色",
+        "color": "#687fa5"
+    },
+    {
+        "name": "银蓝",
+        "color": "#b5c1cf"
+    },
+    {
+        "name": "雪灰",
+        "color": "#cad0d3"
+    },
+    {
+        "name": "淡藕合",
+        "color": "#d5ccd3"
+    },
+    {
+        "name": "浅藤紫",
+        "color": "#c4c3cb"
+    },
+    {
+        "name": "莲灰",
+        "color": "#a8a6b9"
+    },
+    {
+        "name": "雪青灰",
+        "color": "#9198ae"
+    },
+    {
+        "name": "雪蓝",
+        "color": "#7991d1"
+    },
+    {
+        "name": "紫藤灰",
+        "color": "#857e95"
+    },
+    {
+        "name": "凤仙紫",
+        "color": "#8b658b"
+    },
+    {
+        "name": "青灰色",
+        "color": "#575a5d"
+    },
+    {
+        "name": "承德皂",
+        "color": "#5a5c5b"
+    },
+    {
+        "name": "承德灰",
+        "color": "#757570"
+    },
+    {
+        "name": "相思灰",
+        "color": "#625c52"
+    },
+    {
+        "name": "银鼠灰",
+        "color": "#71727a"
+    },
+    {
+        "name": "花青",
+        "color": "#546b83"
+    },
+    {
+        "name": "正灰",
+        "color": "#93a2a9"
+    },
+    {
+        "name": "织锦灰",
+        "color": "#748a8d"
+    },
+    {
+        "name": "石板色",
+        "color": "#6b7c87"
+    },
+    {
+        "name": "银白色",
+        "color": "#ebe5d5"
+    },
+    {
+        "name": "罗蓝灰",
+        "color": "#4f506d"
+    },
+    {
+        "name": "丁香紫",
+        "color": "#695776"
+    },
+    {
+        "name": "百草霜",
+        "color": "#303030"
+    },
+    {
+        "name": "油烟墨",
+        "color": "#3f3f3c"
+    },
+    {
+        "name": "沙青",
+        "color": "#2b5e7d"
+    },
+    {
+        "name": "沙绿",
+        "color": "#005b5a"
+    },
+    {
+        "name": "大赤金",
+        "color": "#6d7358"
+    },
+    {
+        "name": "库金",
+        "color": "#85794f"
+    },
+    {
+        "name": "选金",
+        "color": "#796f54"
+    },
+    {
+        "name": "兽皮色",
+        "color": "#b9986d"
+    },
+    {
+        "name": "橙色",
+        "color": "#e67a2a"
+    },
+    {
+        "name": "蝶粉",
+        "color": "#f5c19b"
+    },
+    {
+        "name": "果肉色",
+        "color": "#f5cebe"
+    },
+    {
+        "name": "奶棕",
+        "color": "#c1a299"
+    },
+    {
+        "name": "纸棕",
+        "color": "#bca590"
+    },
+    {
+        "name": "闪蝶紫",
+        "color": "#8c90b9"
+    },
+    {
+        "name": "黄灰",
+        "color": "#b0b7ac"
+    },
+    {
+        "name": "奶绿",
+        "color": "#afc8ba"
+    },
+    {
+        "name": "暖粉红",
+        "color": "#ff69b4"
+    },
+    {
+        "name": "灰紫红",
+        "color": "#db7093"
+    },
+    {
+        "name": "粉红色",
+        "color": "#ffc0cb"
+    },
+    {
+        "name": "亮粉红",
+        "color": "#ffb6c1"
+    },
+    {
+        "name": "蓟紫",
+        "color": "#d8bfd8"
+    },
+    {
+        "name": "靛色",
+        "color": "#4b0082"
+    },
+    {
+        "name": "暗岩蓝",
+        "color": "#483d8b"
+    },
+    {
+        "name": "蓝紫",
+        "color": "#8a2be2"
+    },
+    {
+        "name": "中紫红",
+        "color": "#9370db"
+    },
+    {
+        "name": "岩蓝",
+        "color": "#6a5acd"
+    },
+    {
+        "name": "中岩蓝",
+        "color": "#7b68ee"
+    },
+    {
+        "name": "午夜蓝",
+        "color": "#191970"
+    },
+    {
+        "name": "海军蓝",
+        "color": "#000080"
+    },
+    {
+        "name": "暗蓝",
+        "color": "#00008b"
+    },
+    {
+        "name": "中蓝",
+        "color": "#0000cd"
+    },
+    {
+        "name": "蓝色",
+        "color": "#0000ff"
+    },
+    {
+        "name": "道奇蓝",
+        "color": "#1e90ff"
+    },
+    {
+        "name": "品蓝",
+        "color": "#4169e1"
+    },
+    {
+        "name": "矢车菊蓝",
+        "color": "#6495ed"
+    },
+    {
+        "name": "深天蓝",
+        "color": "#00bfff"
+    },
+    {
+        "name": "亮天蓝",
+        "color": "#87cefa"
+    },
+    {
+        "name": "天蓝",
+        "color": "#87ceeb"
+    },
+    {
+        "name": "亮蓝",
+        "color": "#add8e6"
+    },
+    {
+        "name": "婴儿粉蓝",
+        "color": "#b0e0e6"
+    },
+    {
+        "name": "灰绿松石色",
+        "color": "#afeeee"
+    },
+    {
+        "name": "亮青",
+        "color": "#e0ffff"
+    },
+    {
+        "name": "绿松石色",
+        "color": "#40e0d0"
+    },
+    {
+        "name": "中绿松石色",
+        "color": "#48d1cc"
+    },
+    {
+        "name": "暗绿松石色",
+        "color": "#00ced1"
+    },
+    {
+        "name": "亮海绿",
+        "color": "#20b2aa"
+    },
+    {
+        "name": "军服蓝",
+        "color": "#5f9ea0"
+    },
+    {
+        "name": "暗青",
+        "color": "#008b8b"
+    },
+    {
+        "name": "凫绿",
+        "color": "#008080"
+    },
+    {
+        "name": "暗岩灰",
+        "color": "#2f4f4f"
+    },
+    {
+        "name": "海绿",
+        "color": "#2e8b57"
+    },
+    {
+        "name": "暗绿",
+        "color": "#006400"
+    },
+    {
+        "name": "绿色",
+        "color": "#008000"
+    },
+    {
+        "name": "森林绿",
+        "color": "#228b22"
+    },
+    {
+        "name": "中海绿",
+        "color": "#3cb371"
+    },
+    {
+        "name": "暗海绿",
+        "color": "#8fbc8f"
+    },
+    {
+        "name": "中碧蓝色",
+        "color": "#66cdaa"
+    },
+    {
+        "name": "碧蓝色",
+        "color": "#7fffd4"
+    },
+    {
+        "name": "灰绿",
+        "color": "#98fb98"
+    },
+    {
+        "name": "亮绿",
+        "color": "#90ee90"
+    },
+    {
+        "name": "春绿",
+        "color": "#00ff7f"
+    },
+    {
+        "name": "中春绿色",
+        "color": "#00fa9a"
+    },
+    {
+        "name": "草坪绿",
+        "color": "#7cfc00"
+    },
+    {
+        "name": "查特酒绿",
+        "color": "#7fff00"
+    },
+    {
+        "name": "绿黄",
+        "color": "#adff2f"
+    },
+    {
+        "name": "柠檬绿色",
+        "color": "#00ff00"
+    },
+    {
+        "name": "柠檬绿",
+        "color": "#32cd32"
+    },
+    {
+        "name": "黄绿",
+        "color": "#9acd32"
+    },
+    {
+        "name": "橄榄军服绿",
+        "color": "#6b8e23"
+    },
+    {
+        "name": "橄榄色",
+        "color": "#808000"
+    },
+    {
+        "name": "暗橄榄绿",
+        "color": "#556b2f"
+    },
+    {
+        "name": "暗卡其色",
+        "color": "#bdb76b"
+    },
+    {
+        "name": "灰金菊色",
+        "color": "#eee8aa"
+    },
+    {
+        "name": "玉米丝色",
+        "color": "#fff8dc"
+    },
+    {
+        "name": "米色",
+        "color": "#f5f5dc"
+    },
+    {
+        "name": "亮黄",
+        "color": "#ffffe0"
+    },
+    {
+        "name": "亮金菊黄",
+        "color": "#fafad2"
+    },
+    {
+        "name": "柠檬绸色",
+        "color": "#fffacd"
+    },
+    {
+        "name": "小麦色",
+        "color": "#f5deb3"
+    },
+    {
+        "name": "硬木色",
+        "color": "#deb887"
+    },
+    {
+        "name": "日晒色",
+        "color": "#d2b48c"
+    },
+    {
+        "name": "卡其色",
+        "color": "#f0e68c"
+    },
+    {
+        "name": "沙褐",
+        "color": "#f4a460"
+    },
+    {
+        "name": "暗橙",
+        "color": "#ff8c00"
+    },
+    {
+        "name": "金菊色",
+        "color": "#daa520"
+    },
+    {
+        "name": "秘鲁色",
+        "color": "#cd853f"
+    },
+    {
+        "name": "暗金菊色",
+        "color": "#b8860b"
+    },
+    {
+        "name": "巧克力色",
+        "color": "#d2691e"
+    },
+    {
+        "name": "赭黄",
+        "color": "#a0522d"
+    },
+    {
+        "name": "鞍褐",
+        "color": "#8b4513"
+    },
+    {
+        "name": "粉扑桃色",
+        "color": "#ffdab9"
+    },
+    {
+        "name": "那瓦霍白",
+        "color": "#ffdead"
+    },
+    {
+        "name": "鹿皮鞋色",
+        "color": "#ffe4b5"
+    },
+    {
+        "name": "陶坯黄",
+        "color": "#ffe4c4"
+    },
+    {
+        "name": "杏仁白",
+        "color": "#ffebcd"
+    },
+    {
+        "name": "蕃木瓜色",
+        "color": "#ffefd5"
+    },
+    {
+        "name": "古董白",
+        "color": "#faebd7"
+    },
+    {
+        "name": "亚麻色",
+        "color": "#faf0e6"
+    },
+    {
+        "name": "花卉白",
+        "color": "#fffaf0"
+    },
+    {
+        "name": "白烟色",
+        "color": "#f5f5f5"
+    },
+    {
+        "name": "幽灵白",
+        "color": "#f8f8ff"
+    },
+    {
+        "name": "雪色",
+        "color": "#fffafa"
+    },
+    {
+        "name": "白色",
+        "color": "#ffffff"
+    },
+    {
+        "name": "雾玫瑰色",
+        "color": "#ffe4e1"
+    },
+    {
+        "name": "薰衣草紫红",
+        "color": "#fff0f5"
+    },
+    {
+        "name": "海贝色",
+        "color": "#fff5ee"
+    },
+    {
+        "name": "旧蕾丝色",
+        "color": "#fdf5e6"
+    },
+    {
+        "name": "象牙色",
+        "color": "#fffff0"
+    },
+    {
+        "name": "蜜瓜绿",
+        "color": "#f0fff0"
+    },
+    {
+        "name": "薄荷奶油色",
+        "color": "#f5fffa"
+    },
+    {
+        "name": "湛蓝",
+        "color": "#f0ffff"
+    },
+    {
+        "name": "爱丽丝蓝",
+        "color": "#f0f8ff"
+    },
+    {
+        "name": "薰衣草紫",
+        "color": "#e6e6fa"
+    },
+    {
+        "name": "庚斯博罗灰",
+        "color": "#dcdcdc"
+    },
+    {
+        "name": "亮灰",
+        "color": "#d3d3d3"
+    },
+    {
+        "name": "白色",
+        "color": "#c0c0c0"
+    },
+    {
+        "name": "银色",
+        "color": "#a9a9a9"
+    },
+    {
+        "name": "红灰",
+        "color": "#82878c"
+    },
+    {
+        "name": "灰色",
+        "color": "#808080"
+    },
+    {
+        "name": "暗灰色",
+        "color": "#696969"
+    },
+    {
+        "name": "银箔",
+        "color": "#585a57"
+    },
+    {
+        "name": "台湾猴",
+        "color": "#7d787c"
+    },
+    {
+        "name": "金丝猴",
+        "color": "#5e5c5d"
+    },
+    {
+        "name": "野牦牛",
+        "color": "#5a5454"
+    },
+    {
+        "name": "羚牛",
+        "color": "#443b3e"
+    },
+    {
+        "name": "马来熊",
+        "color": "#3a2c2b"
+    },
+    {
+        "name": "叶猴色",
+        "color": "#413a32"
+    },
+    {
+        "name": "黑色",
+        "color": "#000000"
+    }
+]
