@@ -1,7 +1,6 @@
 # 「 Hacking Design AI 2020 」
 
-![Hacking Design AI 2020](https://imgchr.com/i/t2IYeP)
-
+![Hacking Design AI 2020](https://s1.ax1x.com/2020/06/07/t2IYeP.png)
 
 ## - 自我介绍  
 
