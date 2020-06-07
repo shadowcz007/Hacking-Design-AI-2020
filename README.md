@@ -1,16 +1,19 @@
 # 「 Hacking Design AI 2020 」
 
-![Hacking Design AI 2020](img/poster.png)
+![Hacking Design AI 2020](https://imgchr.com/i/t2IYeP)
 
 
 ## - 自我介绍  
 
-大家好，我是shadow，毕业于上交大及同济大学，我主要的职业是智能产品架构师/全栈工程师/跨界设计师。 
+大家好，我是shadow，这门课的主讲老师，毕业于上交大及同济大学，我主要的职业是智能产品架构师/全栈工程师/跨界设计师。
+
+🔥微信公众号：无界社区mixlab（id：mix-lab）
+
+🚀知乎专栏：[跨领域修炼指南](https://zhuanlan.zhihu.com/DMCode)
+
  
  
- 
- 
-#### - 工作经历 
+#### - 主要工作经历 
 
 → mixlab无界社区 创始人 
 

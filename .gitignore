@@ -1,4 +1,6 @@
 .DS_Store
+notebook/.ipynb_checkpoints
+notebook/.ipynb_checkpoints/*
 
 # Logs
 logs
